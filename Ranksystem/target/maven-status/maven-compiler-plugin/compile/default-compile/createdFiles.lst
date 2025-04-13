@@ -1,0 +1,6 @@
+com\Magnus\ranksystem\Main.class
+com\Magnus\ranksystem\manager\RankManager.class
+com\Magnus\ranksystem\manager\NametagManager.class
+com\Magnus\ranksystem\RankListener.class
+com\Magnus\ranksystem\RankCommand.class
+com\Magnus\ranksystem\Rank.class

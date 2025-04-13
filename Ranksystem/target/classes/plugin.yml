@@ -1,0 +1,7 @@
+name: MyRankPlugin
+version: "1.0"
+main: com.Magnus.ranksystem.Main
+api-version: "1.21"
+
+commands:
+  rank:
